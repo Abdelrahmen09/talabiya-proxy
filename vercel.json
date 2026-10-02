@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "https://app.talabiyadz.com/" },
-    { "source": "/(.*)", "destination": "https://app.talabiyadz.com/$1" }
+    { "source": "/", "destination": "https://origin.talabiyadz.com/" },
+    { "source": "/(.*)", "destination": "https://origin.talabiyadz.com/$1" }
   ]
 }
